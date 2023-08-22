@@ -13,6 +13,7 @@ description: >
 # Build settings
 
 theme: minima
+theme: midnight
 
 plugins:
   - jekyll-feed
